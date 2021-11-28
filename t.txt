@@ -1,0 +1,50 @@
+--sycc\
+    |--e\                                                 
+    |    
+    |--__init__.py                                   
+    |    |--__pycache__\                                  
+    |    |    |--__init__.cpython-36.pyc                  
+    |--k\                                                 
+    |    |--test.py                                       
+    |    |--Mac.py                                        
+    |    |--__init__.py                                 
+    |    |--__pycache__\                                  
+    |    |   
+    |--__init__.cpython-36.pyc
+    |    |    |--test.cpython-36.pyc                      
+    |    |    |--Mac.cpython-36.pyc                       
+    |    |--.txt                                          
+    |    |--password_input.py                             
+    |    |--useless.py                                    
+    |    |--v.txt                                         
+    |    |--x.txt                                         
+    |    |--.x.txt                                        
+    |--p\                                                 
+    |    |--yz.py                                         
+    |    |--yh.py
+    |    |--y.py
+    |    |--beginnings.py
+    |    |--__init__.py
+    |    |--pdsys.py
+    |    |--__pycache__\
+    |    |    |--__init__.cpython-36.pyc
+    |    |    |--beginnings.cpython-36.pyc
+    |    |    |--pdsys.cpython-36.pyc
+    |    |    |--y.cpython-36.pyc
+    |    |    |--yh.cpython-36.pyc
+    |    |    |--yz.cpython-36.pyc
+    |    |    |--qt.cpython-36.pyc
+    |    |--qt.py
+    |--MANIFEST.in
+    |--v.py
+    |--__init__.py
+    |--core.py
+    |--README.rst
+    |--requirements.txt
+    |--setup.py
+    |--t.txt
+    |--tree.py
+    |--sycc.py
+    |--v.txt
+    |--sycc.png
+
